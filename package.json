@@ -2,7 +2,8 @@
   "name": "project-26-01-2025",
   "scripts": {
     "install-client": "cd client && npm install",
-    "build-client": "cd client && npm run build"
+    "build-client": "cd client && npm run build", 
+    "build": "react-scripts build"
   },
   "dependencies": {
     "mongodb": "^5.8.1",    
